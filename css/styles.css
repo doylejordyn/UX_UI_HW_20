@@ -1,3 +1,120 @@
 @charset "UTF-8";
 
 body {max-width: 1440px;}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;}
+
+.navbar-brand {padding-left: 30px;}
+
+.navbar-soc {padding-right: 40px;}
+
+.jumbotronImgOne {
+    width: 50%;
+    height: 500px;
+    background-image: url("../images/cover.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;}
+
+.jumbotronTitle {
+    width: 50%;
+    height: 500px;
+    float: right;}
+
+
+.leadOne {
+    font-weight: 200;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top:10px;
+}
+
+.display-4 {
+    padding-top: 80px;
+    padding-left: 100px;}
+
+.jumbotronPlanning {
+    width: 50%;
+    height: 500px;
+    float: left;}
+
+.lead {
+    font-weight: 200;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top: 160px;}
+
+
+.jumbotronImgTwo {
+    width: 50%;
+    height: 500px;
+    background-image: url("../images/imgtwo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;}
+
+
+.jumbotronImgThree {  width: 50%;
+    height: 505px;
+    background-image: url("../images/imgthree.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;}
+    
+    
+.jumbotronResearch {
+    width: 50%;
+    height: 505px;
+    float: right;}
+
+
+.jumbotronWf {
+    width: 50%;
+    height: 410PX;
+    float: left;}
+
+
+.jumbotronImgFour { 
+    width: 50%;
+    height: 410px;
+    background-image: url("../images/imgfour.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;}
+
+
+.jumbotronTesting{
+    width: 50%;
+    height: 380px;
+    float: right;}
+
+ .jumbotronImgFive{  width: 50%;
+            height: 380px;
+            background-image: url("../images/IMGFIVE.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            float: left;}
+            
+
+.jumbotronPrototypes {
+    width: 50%;
+    height: 370px;
+    float: left;}
+
+
+.jumbotronImgSix { 
+        width: 50%;
+        height: 370px;
+        background-image: url("../images/IMGSIX.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        float: right;}
+
+

@@ -24,6 +24,14 @@ body {max-width: 1440px;}
     height: 500px;
     float: right;}
 
+h1 {    
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 4px;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top:10px;}
+
 
 .leadOne {
     font-weight: 200;
@@ -31,7 +39,7 @@ body {max-width: 1440px;}
     letter-spacing: 2px;
     padding-left: 100px;
     padding-right:100px;
-    padding-top:10px;
+    padding-top:5px;
 }
 
 .display-4 {
@@ -41,6 +49,7 @@ body {max-width: 1440px;}
 .jumbotronPlanning {
     width: 50%;
     height: 500px;
+    padding-top: 100px;
     float: left;}
 
 .lead {
@@ -49,7 +58,7 @@ body {max-width: 1440px;}
     letter-spacing: 2px;
     padding-left: 100px;
     padding-right:100px;
-    padding-top: 160px;}
+    padding-top: 20px;}
 
 
 .jumbotronImgTwo {
@@ -72,13 +81,16 @@ body {max-width: 1440px;}
 .jumbotronResearch {
     width: 50%;
     height: 505px;
-    float: right;}
+    float: right;
+    padding-top: 100px;
+}
 
 
 .jumbotronWf {
     width: 50%;
     height: 410PX;
-    float: left;}
+    float: left;
+    padding-top: 100px;}
 
 
 .jumbotronImgFour { 
@@ -93,7 +105,8 @@ body {max-width: 1440px;}
 .jumbotronTesting{
     width: 50%;
     height: 380px;
-    float: right;}
+    float: right;
+    padding-top: 100px;}
 
  .jumbotronImgFive{  width: 50%;
             height: 380px;
@@ -106,7 +119,8 @@ body {max-width: 1440px;}
 .jumbotronPrototypes {
     width: 50%;
     height: 370px;
-    float: left;}
+    float: left;
+    padding-top: 100px;}
 
 
 .jumbotronImgSix { 

@@ -88,7 +88,7 @@ h1 {
 
 .jumbotronWf {
     width: 50%;
-    height: 410PX;
+    height: 410px;
     float: left;
     padding-top: 100px;}
 
@@ -96,7 +96,7 @@ h1 {
 .jumbotronImgFour { 
     width: 50%;
     height: 410px;
-    background-image: url("../images/imgfour.png");
+    background-image: url("../images/Imgfour_attempttwo.png");
     background-size: cover;
     background-repeat: no-repeat;
     float: right;}
